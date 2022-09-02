@@ -5,3 +5,4 @@ The reward function is composed of three terms as follows:
 <br />The following algorithms are implemented:
 * single agent SARSA, Qlearning, Actor Critic
 * multi agent SARSA, MiniMax, Belief Based, Actor Critic
+The resulting videos are located at Vid Folder.
